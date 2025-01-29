@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Harshit Goud</h1>
 <h3 align="center">Knowledge Seeker and Quick Learner</h3>
 
+## 💡 Interests:
+✔️ Frontend Development & UI/UX Design <br>
+✔️ Competitive Coding & Problem-Solving <br>
+✔️ Building Scalable Web Apps <br>
+✔️ Tech Innovations & AI <br>
+
+🚀 Always open to collaborations, open-source contributions, and new challenges!
+
 - 🌱 I’m currently learning **Next.js and Backend Tech with Gen-AI**
 
 - 📫 How to reach me **harshitgour6261@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@harshit_goud11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@harshit_goud11" height="30" width="40" /></a>
 <a href="https://twitter.com/@harshit08929774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@harshit08929774" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshit-goud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-goud" height="30" width="40" /></a>
 <a href="https://instagram.com/harshitgour_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshitgour_12" height="30" width="40" /></a>
