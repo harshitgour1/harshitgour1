@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Goud</h1>
 <h3 align="center">Knowledge Seeker and Quick Learner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitgour1" alt="harshitgour1" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js and Backend Tech with Gen-AI**
 
 - 📫 How to reach me **harshitgour6261@gmail.com**
@@ -23,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitgour1&show_icons=true&locale=en" alt="harshitgour1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitgour1&" alt="harshitgour1" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitgour1" alt="harshitgour1" /></a> </p>
