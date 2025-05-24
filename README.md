@@ -3,7 +3,7 @@
 
 🚀 Always open to collaborations, open-source contributions, and new challenges!
 
-- 🌱 I’m currently learning **Next.js and Backend Tech with Gen-AI**
+- 🌱 I’m currently learning **Backend Development with Gen-AI**
 
 - 📫 How to reach me **harshitgour6261@gmail.com**
 
