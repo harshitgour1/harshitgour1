@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Goud</h1>
 <h3 align="center">Knowledge Seeker and Quick Learner</h3>
 
-## 💡 Interests:
-✔️ Frontend Development & UI/UX Design <br>
-✔️ Competitive Coding & Problem-Solving <br>
-✔️ Building Scalable Web Apps <br>
-✔️ Tech Innovations & AI <br>
-
 🚀 Always open to collaborations, open-source contributions, and new challenges!
 
 - 🌱 I’m currently learning **Next.js and Backend Tech with Gen-AI**
