@@ -43,13 +43,12 @@ I stay on top of what's moving in tech, go deep when something matters, and don'
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain4j-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white%22/%3E)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white%22/%3E)
 
 **Tools & Platforms**
 
@@ -84,7 +83,7 @@ I stay on top of what's moving in tech, go deep when something matters, and don'
         <img src="[https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
       </p>
-      <b>RBAC · event management · </b>
+      <b>RBAC · event management · live triggers</b>
     </td>
   </tr>
 </table>
@@ -104,10 +103,6 @@ I stay on top of what's moving in tech, go deep when something matters, and don'
 <img src="https://streak-stats.demolab.com?user=harshitgour1&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6584&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 
 </div>
-
----
-
-| 🏆 Smart India Hackathon 2025 | **Top 2% nationally** across all participating teams |
 
 ---
 
