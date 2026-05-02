@@ -18,7 +18,7 @@
 
 Full-stack developer who goes deep on the backend — currently focused on Mern, Java, Spring Boot, microservices, and Gen-AI integrations. I don't move on from a problem until I understand it properly.
 
-Worked on Forest Rights Act Management Portal for the **Ministry of Tribal Affairs, Government of India**. Selected for **Smart India Hackathon 2025** (Top 2% nationally). Multiple hackathons, multiple shipped projects — not for the resume, but because building is how I think.
+Worked on Forest Rights Act Management Portal for the **Ministry of Tribal Affairs, Government of India**. Selected for **Smart India Hackathon 2025 Finalist** (Top 2% nationally). Multiple hackathons, multiple shipped projects — not for the resume, but because building is how I think.
 
 I stay on top of what's moving in tech, go deep when something matters, and don't settle for surface-level understanding.
 
