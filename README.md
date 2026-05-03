@@ -94,13 +94,13 @@ I stay on top of what's moving in tech, go deep when something matters, and don'
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshitgour1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.shion.dev/api?username=harshitgour1&amp;theme=gruvbox&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" height="170" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitgour1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=harshitgour1&amp;theme=gruvbox&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=harshitgour1&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6584&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=harshitgour1&theme=gruvbox&hide_border=false" alt="GitHub Streak"/>
 
 </div>
 
