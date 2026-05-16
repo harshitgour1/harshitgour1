@@ -65,12 +65,11 @@ I stay on top of what's moving in tech, go deep when something matters, and don'
   <tr>
     <td width="50%" valign="top">
       <h3>🔖 Custom New Tab</h3>
-      <p>A browser extension that replaces the default new tab with a minimalistic, fully customizable material UI dashboard. Built in TypeScript — pinned on GitHub as a showcase project.</p>
+      <p>A browser extension that replaces the default new tab with a minimalistic, fully customizable material UI dashboard. Built in TypeScript.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Browser_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
       </p>
-      <a href="https://github.com/harshitgour1/Custom-New-Tab">→ View Repository</a>
     </td>
   </tr>
   <tr>
