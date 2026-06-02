@@ -82,7 +82,7 @@ I stay on top of what's moving in tech, go deep when something matters, and don'
         <img src="[https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
       </p>
-      <b>RBAC · event management · live triggers</b>
+      <b>RBAC · Event management · live triggers</b>
     </td>
   </tr>
 </table>
