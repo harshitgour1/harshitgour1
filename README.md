@@ -65,7 +65,7 @@ I stay on top of what's moving in tech, go deep when something matters, and don'
 
 ### 🏛️ Astitva & NyaySetu — Forest Governance AI
 
-* SIH 2025 · Ministry of Tribal Affairs*
+* SIH 2025 · Ministry of Tribal Affairs
 
 Transforming India's Forest Rights Act implementation with AI — digitizing tribal land claims, spatial mapping, and automating governance workflows end-to-end.
 
@@ -189,7 +189,6 @@ A Chrome extension that replaces the cluttered default new tab with a clean, cus
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-goud)
 [![Gmail](https://img.shields.io/badge/Gmail-harshitgour6261%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitgour6261@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-iharshit.vercel.app-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://iharshit.vercel.app)
 
 </div>
 
